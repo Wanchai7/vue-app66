@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 
 export default defineConfig({
-  base: '/vue-app/',
+  base: '/vue-app66/',
   plugins: [vue()],
   resolve: {
     alias: {
